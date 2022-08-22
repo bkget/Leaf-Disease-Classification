@@ -7,7 +7,7 @@ For this classification task, a total of 8010 representative sample images were 
 
 ## Data
 
-The overall data used for training the proposed models were collected by the author and can be found in [this](https://drive.google.com/drive/folders/1alTyk02h70VHwqybOPcaVdfaRej4TaQ9?usp=sharing, https://drive.google.com/drive/folders/1l2MAHrj-dtR88G0a09GgEdlW-MyVJEsy?usp=sharing) link.
+The overall data used for training the proposed models were collected by the author and can be found in [this](https://drive.google.com/drive/folders/1HUgfzJNMMiKNxYgTZE5__Ef34lSHysHk?usp=sharing) link.
 
 
 ## Installation
