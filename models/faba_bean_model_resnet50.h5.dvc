@@ -1,0 +1,4 @@
+outs:
+- md5: b53d7c5e43ef979b099abefcc9a64df1
+  size: 99680416
+  path: faba_bean_model_resnet50.h5

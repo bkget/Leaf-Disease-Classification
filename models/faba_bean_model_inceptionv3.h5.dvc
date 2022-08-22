@@ -1,0 +1,4 @@
+outs:
+- md5: 45768f02dd1cb2c9c0164deff4ead47f
+  size: 90532872
+  path: faba_bean_model_inceptionv3.h5
