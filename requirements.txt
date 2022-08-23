@@ -1,0 +1,7 @@
+numpy
+tensorflow
+keras
+flask
+PIL
+cv2
+matplotlib
